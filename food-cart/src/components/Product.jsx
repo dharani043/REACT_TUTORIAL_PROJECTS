@@ -17,13 +17,16 @@ const Product = ({product}) => {
         <div className="img">
             <img src={product.pic} alt={product.name} />
         </div>
+        <div className='details'>
+
         <h3>{name}</h3>
-        <p>Price Rs: {product.amt}
+        <p>Price Rs: {product.price}
         </p>
         {
           cart.includes(product)?<button className='btnRemove' onClick={removeCart}>Remove from cart</button>
           :<button onClick={addCart}>Add to cart</button>
         }
+        </div>
     </div>
   )
 }

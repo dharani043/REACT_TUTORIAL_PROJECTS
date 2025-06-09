@@ -7,11 +7,12 @@ const Viewcart = () => {
   const [total, setTotal] = useState(0);
 
   useEffect(() => {
-    setTotal(cart.reduce((acc, curr) => acc + parseInt(curr.amt), 0));
+    setTotal(cart.reduce((acc, curr) => acc + parseFloat(curr.price), 0));
   }, [cart]);
 
   return (
-    <>
+    <><div className="cart">
+
       <h1 className='cart-heading'>Cart Products</h1>
       <div className="cart-container">
         {cart.map((product) => (
@@ -21,12 +22,13 @@ const Viewcart = () => {
             </div>
             <div className="cart-product-details">
               <h3>{product.name}</h3>
-              <p>Price Rs: {product.amt}</p>
+              <p>Price Rs: {product.price}</p>
             </div>
           </div>
         ))}
       </div>
-      <h2 className='cart-amt'>Total Amount: {total}</h2>
+      <h2 className='cart-amt'>Total Amount: {(total.toFixed(2))}</h2>
+      </div>
     </>
   );
 };

@@ -5,7 +5,9 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
+  
 }
 .container{
   padding: 20px;
+  background-image: linear-gradient(200deg, #b5e7ec, #c1e26b);
 }

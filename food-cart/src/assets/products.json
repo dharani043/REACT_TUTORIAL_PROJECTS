@@ -5,7 +5,7 @@
       "price": 5.99,
       "ftype": "Non-Veg",
       "shop": "Burger Cart",
-      "pic": "cheese_burger.jpeg",
+      "pic": "src/assets/cheese_burger.jpeg",
       "latest": "yes"
     },
     {
@@ -14,7 +14,7 @@
       "price": 4.99,
       "ftype": "Veg",
       "shop": "Burger Cart",
-      "pic": "veg_burger.jpeg",
+      "pic": "src/assets/images/veg_burger.jpeg",
       "latest": "no"
     },
     {
@@ -23,7 +23,7 @@
       "price": 7.49,
       "ftype": "Non-Veg",
       "shop": "Shawarma Cart",
-      "pic": "chicken_shawarma.jpeg",
+      "pic": "src/assets/images/chicken_shawarma.jpeg",
       "latest": "no"
     },
     {
@@ -32,7 +32,7 @@
       "price": 6.29,
       "ftype": "Veg",
       "shop": "Wrap Cart",
-      "pic": "falafel_wrap.jpeg",
+      "pic": "src/assets/images/falafel_wrap.jpeg",
       "latest": "yes"
     },
     {
@@ -41,7 +41,7 @@
       "price": 3.99,
       "ftype": "Veg",
       "shop": "Sandwich Cart",
-      "pic": "grilled_cheese.jpeg",
+      "pic": "src/assets/images/grilled_cheese.jpeg",
       "latest": "no"
     },
     {
@@ -50,7 +50,7 @@
       "price": 4.49,
       "ftype": "Non-Veg",
       "shop": "Taco Cart",
-      "pic": "beef_tacos.jpeg",
+      "pic": "src/assets/images/beef_tacos.jpeg",
       "latest": "yes"
     },
     {
@@ -59,7 +59,7 @@
       "price": 5.29,
       "ftype": "Non-Veg",
       "shop": "Taco Cart",
-      "pic": "fish_tacos.jpeg",
+      "pic": "src/assets/images/fish_tacos.jpeg",
       "latest": "no"
     },
     {
@@ -68,7 +68,7 @@
       "price": 4.19,
       "ftype": "Veg",
       "shop": "Taco Cart",
-      "pic": "veg_tacos.jpeg",
+      "pic": "src/assets/images/veg_tacos.jpeg",
       "latest": "no"
     },
     {
@@ -77,7 +77,7 @@
       "price": 3.49,
       "ftype": "Non-Veg",
       "shop": "Snack Cart",
-      "pic": "chicken_nuggets.jpeg",
+      "pic": "src/assets/images/chicken_nuggets.jpeg",
       "latest": "yes"
     },
     {
@@ -86,7 +86,7 @@
       "price": 2.99,
       "ftype": "Veg",
       "shop": "Snack Cart",
-      "pic": "french_fries.jpeg",
+      "pic": "src/assets/images/french_fries.jpeg",
       "latest": "no"
     },
     {
@@ -95,7 +95,7 @@
       "price": 2.99,
       "ftype": "Non-Veg",
       "shop": "Pizza Cart",
-      "pic": "pizza_slice.jpeg",
+      "pic": "src/assets/images/pizza_slice.jpeg",
       "latest": "yes"
     },
     {
@@ -104,7 +104,7 @@
       "price": 7.99,
       "ftype": "Veg",
       "shop": "Pizza Cart",
-      "pic": "Margherita Pizza.jpeg",
+      "pic": "src/assets/images/Margherita Pizza.jpeg",
       "latest": "no"
     },
     {
@@ -113,7 +113,7 @@
       "price": 8.49,
       "ftype": "Non-Veg",
       "shop": "Pizza Cart",
-      "pic": "Pepperoni Pizza.jpeg",
+      "pic": "src/assets/images/Pepperoni Pizza.jpeg",
       "latest": "no"
     },
     {
@@ -122,7 +122,7 @@
       "price": 3.19,
       "ftype": "Dessert",
       "shop": "Dessert Cart",
-      "pic": "Ice Cream Conejpeg",
+      "pic": "src/assets/images/Ice Cream Cone.jpeg",
       "latest": "yes"
     },
     {
@@ -131,7 +131,7 @@
       "price": 4.29,
       "ftype": "Dessert",
       "shop": "Dessert Cart",
-      "pic": "Chocolate Cake.jpeg",
+      "pic": "src/assets/images/Chocolate Cake.jpeg",
       "latest": "no"
     },
     {
@@ -140,7 +140,7 @@
       "price": 5.49,
       "ftype": "Veg",
       "shop": "Salad Cart",
-      "pic": "Fruit Salad.jpeg",
+      "pic": "src/assets/images/Fruit Salad.jpeg",
       "latest": "yes"
     },
     {
@@ -149,7 +149,7 @@
       "price": 6.29,
       "ftype": "Veg",
       "shop": "Salad Cart",
-      "pic": "Caesar Saladjpeg",
+      "pic": "src/assets/images/Caesar Salad.jpeg",
       "latest": "no"
     },
     {
@@ -158,7 +158,7 @@
       "price": 7.79,
       "ftype": "Non-Veg",
       "shop": "Salad Cart",
-      "pic": "Grilled fen Salad.jpeg",
+      "pic": "src/assets/images/Grilled Chicken Salad.jpeg",
       "latest": "no"
     },
     {
@@ -167,7 +167,7 @@
       "price": 1.99,
       "ftype": "Veg",
       "shop": "Snack Cart",
-      "pic": "Vegetable Samosa.jpeg",
+      "pic": "src/assets/images/Vegetable Samosa.jpeg",
       "latest": "yes"
     },
     {
@@ -176,7 +176,7 @@
       "price": 2.49,
       "ftype": "Non-Veg",
       "shop": "Snack Cart",
-      "pic": "chicken_samosa.jpeg",
+      "pic": "src/assets/images/Vegetable Samosa.jpeg",
       "latest": "no"
     },
     {
@@ -185,7 +185,7 @@
       "price": 6.99,
       "ftype": "Non-Veg",
       "shop": "Kebab Cart",
-      "pic": "Lamb Kebab.jpeg",
+      "pic": "src/assets/images/Lamb Kebab.jpeg",
       "latest": "no"
     },
     {
@@ -194,7 +194,7 @@
       "price": 7.49,
       "ftype": "Non-Veg",
       "shop": "Kebab Cart",
-      "pic": "Beef_kebab.jpeg",
+      "pic": "src/assets/images/Beef Kebab.jpeg",
       "latest": "yes"
     },
     {
@@ -203,7 +203,7 @@
       "price": 6.49,
       "ftype": "Non-Veg",
       "shop": "Kebab Cart",
-      "pic": "chicken_kebab.jpeg",
+      "pic": "src/assets/images/chicken_nuggets.jpeg",
       "latest": "no"
     },
     {
@@ -212,7 +212,7 @@
       "price": 5.49,
       "ftype": "Veg",
       "shop": "Kebab Cart",
-      "pic": "Veg Kebab.jpeg",
+      "pic": "src/assets/images/Veg Kebab.jpeg",
       "latest": "no"
     },
     {
@@ -221,7 +221,7 @@
       "price": 3.99,
       "ftype": "Veg",
       "shop": "Smoothie Cart",
-      "pic": "smoothie.jpeg",
+      "pic": "src/assets/images/smoothie.jpeg",
       "latest": "yes"
     },
     {
@@ -230,7 +230,7 @@
       "price": 2.49,
       "ftype": "Veg",
       "shop": "Beverage Cart",
-      "pic": "coffee.jpeg",
+      "pic": "src/assets/images/coffee.jpeg",
       "latest": "no"
     },
     {
@@ -239,7 +239,7 @@
       "price": 1.99,
       "ftype": "Veg",
       "shop": "Beverage Cart",
-      "pic": "Beaverage.jpeg",
+      "pic": "src/assets/images/Beverage.jpeg",
       "latest": "no"
     },
     {
@@ -248,7 +248,7 @@
       "price": 2.99,
       "ftype": "Veg",
       "shop": "Beverage Cart",
-      "pic": "coconut_water.jpeg",
+      "pic": "src/assets/images/coconut_water.jpeg",
       "latest": "yes"
     },
     {
@@ -257,7 +257,7 @@
       "price": 2.29,
       "ftype": "Veg",
       "shop": "Beverage Cart",
-      "pic": "lemonade.jpeg",
+      "pic": "src/assets/images/lemonade.jpeg",
       "latest": "no"
     },
     {
@@ -266,7 +266,7 @@
       "price": 3.99,
       "ftype": "Non-Veg",
       "shop": "Hot Dog Cart",
-      "pic": "hot_dog.jpeg",
+      "pic": "src/assets/images/hot_dog.jpeg",
       "latest": "no"
     }
   ]
