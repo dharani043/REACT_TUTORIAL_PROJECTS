@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600&display=swap");
+
+*{
+    font-family: "Inter",sans-serif;
+}
+body{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    color: #fff;
+    text-align: center;
+}
+div h3{
+    font-size: 25px;font-weight: 700;
+}
+div button{
+    border: none;
+    background-color: gray;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+b{
+    color: lightseagreen;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+}

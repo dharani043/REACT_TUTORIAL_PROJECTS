@@ -1,0 +1,94 @@
+*{
+  box-sizing: border-box;
+}
+#root{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  margin: 0;
+}
+h3{
+  margin: 10px 0;
+}
+h5{
+  margin: 5px 0;
+}
+p{
+  font-size: 16px;
+  line-height: 23px;
+  text-align: center;
+}
+.img{
+  width: 100px;
+  height: 100px;
+  border: 4px solid #e1e7eb;
+  border-radius: 50%;
+  padding: 7px;
+}
+.card_con{
+  background-color: rgb(52, 58, 97);
+  border-radius: 8px;
+  color:aliceblue;
+  padding-top: 35px;
+  width: 350px;
+  text-align: center;
+  position: relative;                     
+}
+.pro{
+  color: brown;
+  background-color: yellow;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 4px 8px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.online{
+  background-color: yellow;
+  color:brown;
+}
+.offline{
+  background-color: rgb(235, 129, 42);
+  color:black;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+button.primary{
+  background-color: rgb(60, 105, 189);
+  border: 2px solid blue;
+  border-radius: 3px;
+  color: white;
+  font-weight: 500;
+  font-family: "inter",sans-serif;
+  padding: 10px 25px;
+}
+button.primary.outline{
+  background-color:transparent ;
+}
+.skills{
+  background-color: rgb(50, 61, 161);
+  text-align: left;
+  padding: 15px;
+  margin-top: 15px;
+}
+.skills ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.skills ul li{
+  border-radius: 2px;
+  border: 2px solid gray;
+  display: inline-flex;
+  padding: 7px;
+  margin: 0 7px 7px 0;
+  font-size: 15px;
+}

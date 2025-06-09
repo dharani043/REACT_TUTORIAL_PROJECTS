@@ -1,0 +1,273 @@
+[
+    {
+      "id": 1,
+      "name": "Cheese Burger",
+      "price": 5.99,
+      "ftype": "Non-Veg",
+      "shop": "Burger Cart",
+      "pic": "cheese_burger.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 2,
+      "name": "Veg Burger",
+      "price": 4.99,
+      "ftype": "Veg",
+      "shop": "Burger Cart",
+      "pic": "veg_burger.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Shawarma",
+      "price": 7.49,
+      "ftype": "Non-Veg",
+      "shop": "Shawarma Cart",
+      "pic": "chicken_shawarma.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 4,
+      "name": "Falafel Wrap",
+      "price": 6.29,
+      "ftype": "Veg",
+      "shop": "Wrap Cart",
+      "pic": "falafel_wrap.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 5,
+      "name": "Grilled Cheese Sandwich",
+      "price": 3.99,
+      "ftype": "Veg",
+      "shop": "Sandwich Cart",
+      "pic": "grilled_cheese.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 6,
+      "name": "Beef Tacos",
+      "price": 4.49,
+      "ftype": "Non-Veg",
+      "shop": "Taco Cart",
+      "pic": "beef_tacos.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 7,
+      "name": "Fish Tacos",
+      "price": 5.29,
+      "ftype": "Non-Veg",
+      "shop": "Taco Cart",
+      "pic": "fish_tacos.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 8,
+      "name": "Veg Tacos",
+      "price": 4.19,
+      "ftype": "Veg",
+      "shop": "Taco Cart",
+      "pic": "veg_tacos.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Nuggets",
+      "price": 3.49,
+      "ftype": "Non-Veg",
+      "shop": "Snack Cart",
+      "pic": "chicken_nuggets.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 10,
+      "name": "French Fries",
+      "price": 2.99,
+      "ftype": "Veg",
+      "shop": "Snack Cart",
+      "pic": "french_fries.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 11,
+      "name": "Pizza Slice",
+      "price": 2.99,
+      "ftype": "Non-Veg",
+      "shop": "Pizza Cart",
+      "pic": "pizza_slice.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 12,
+      "name": "Margherita Pizza",
+      "price": 7.99,
+      "ftype": "Veg",
+      "shop": "Pizza Cart",
+      "pic": "Margherita Pizza.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 13,
+      "name": "Pepperoni Pizza",
+      "price": 8.49,
+      "ftype": "Non-Veg",
+      "shop": "Pizza Cart",
+      "pic": "Pepperoni Pizza.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 14,
+      "name": "Ice Cream Cone",
+      "price": 3.19,
+      "ftype": "Dessert",
+      "shop": "Dessert Cart",
+      "pic": "Ice Cream Conejpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 15,
+      "name": "Chocolate Cake",
+      "price": 4.29,
+      "ftype": "Dessert",
+      "shop": "Dessert Cart",
+      "pic": "Chocolate Cake.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 16,
+      "name": "Fruit Salad",
+      "price": 5.49,
+      "ftype": "Veg",
+      "shop": "Salad Cart",
+      "pic": "Fruit Salad.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 17,
+      "name": "Caesar Salad",
+      "price": 6.29,
+      "ftype": "Veg",
+      "shop": "Salad Cart",
+      "pic": "Caesar Saladjpeg",
+      "latest": "no"
+    },
+    {
+      "id": 18,
+      "name": "Grilled fen Salad",
+      "price": 7.79,
+      "ftype": "Non-Veg",
+      "shop": "Salad Cart",
+      "pic": "Grilled fen Salad.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 19,
+      "name": "Vegetable Samosa",
+      "price": 1.99,
+      "ftype": "Veg",
+      "shop": "Snack Cart",
+      "pic": "Vegetable Samosa.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 20,
+      "name": "Chicken Samosa",
+      "price": 2.49,
+      "ftype": "Non-Veg",
+      "shop": "Snack Cart",
+      "pic": "chicken_samosa.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 21,
+      "name": "Lamb Kebab",
+      "price": 6.99,
+      "ftype": "Non-Veg",
+      "shop": "Kebab Cart",
+      "pic": "Lamb Kebab.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 22,
+      "name": "Beef Kebab",
+      "price": 7.49,
+      "ftype": "Non-Veg",
+      "shop": "Kebab Cart",
+      "pic": "Beef_kebab.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 23,
+      "name": "Chicken Kebab",
+      "price": 6.49,
+      "ftype": "Non-Veg",
+      "shop": "Kebab Cart",
+      "pic": "chicken_kebab.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 24,
+      "name": "Veg Kebab",
+      "price": 5.49,
+      "ftype": "Veg",
+      "shop": "Kebab Cart",
+      "pic": "Veg Kebab.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 25,
+      "name": "Smoothie",
+      "price": 3.99,
+      "ftype": "Veg",
+      "shop": "Smoothie Cart",
+      "pic": "smoothie.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 26,
+      "name": "Coffee",
+      "price": 2.49,
+      "ftype": "Veg",
+      "shop": "Beverage Cart",
+      "pic": "coffee.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 27,
+      "name": "Tea",
+      "price": 1.99,
+      "ftype": "Veg",
+      "shop": "Beverage Cart",
+      "pic": "Beaverage.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 28,
+      "name": "Coconut Water",
+      "price": 2.99,
+      "ftype": "Veg",
+      "shop": "Beverage Cart",
+      "pic": "coconut_water.jpeg",
+      "latest": "yes"
+    },
+    {
+      "id": 29,
+      "name": "Lemonade",
+      "price": 2.29,
+      "ftype": "Veg",
+      "shop": "Beverage Cart",
+      "pic": "lemonade.jpeg",
+      "latest": "no"
+    },
+    {
+      "id": 30,
+      "name": "Hot Dog",
+      "price": 3.99,
+      "ftype": "Non-Veg",
+      "shop": "Hot Dog Cart",
+      "pic": "hot_dog.jpeg",
+      "latest": "no"
+    }
+  ]
+  

@@ -1,0 +1,32 @@
+.container{
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 350px;
+}
+.progress-container{
+  height: 20px;
+  width: 300px;
+  border: 1px solid #ccc;
+  overflow: hidden;
+  border-radius: 30px;
+}
+button{
+  background-color: blueviolet;
+  color: #ccc;
+  border-radius: 10px;
+  outline: none;
+}
+.progress{
+  height: 100%;
+  width: 100%;
+  background-color: aquamarine;
+  transform: translateX(-20%);
+}
+*{
+  background-color: #88ca3e;
+}

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correctOption": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctOption": "Mars"
+    },
+    {
+      "id": 3,
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+      "correctOption": "William Shakespeare"
+    },
+    {
+      "id": 4,
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctOption": "Pacific Ocean"
+    },
+    {
+      "id": 5,
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correctOption": "7"
+    },
+    {
+      "id": 6,
+      "question": "Which gas do plants use for photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctOption": "Carbon Dioxide"
+    },
+    {
+      "id": 7,
+      "question": "Who invented the telephone?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Isaac Newton"],
+      "correctOption": "Alexander Graham Bell"
+    },
+    {
+      "id": 8,
+      "question": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "correctOption": "8"
+    },
+    {
+      "id": 9,
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "correctOption": "Nile River"
+    },
+    {
+      "id": 10,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Pb", "Fe"],
+      "correctOption": "Au"
+    }
+  ]
+  
